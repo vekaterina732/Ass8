@@ -1,0 +1,8 @@
+Conclusion
+
+In the first exercise, where 2 integers are sorted, a single `if` statement is used to compare and swap the values if necessary. This simple approach efficiently ensures that the two integers are in ascending order with minimal logic. The solution adheres to the constraints, using only one comparison to achieve the sorting.
+
+In the second exercise, I sorted 3 integers using exactly 3 simple `if` statements without additional conditions like `else`, `and`, `or`, or `elif`. The script correctly sorts the integers by performing pairwise comparisons and swapping the values when needed. This method orders the integers in ascending order, demonstrating how to implement basic sorting with minimal logical operations.
+
+In the third exercise, a list containing elements of different data types is processed in a loop to count the number of string elements. The script uses the `type()` function to check if each element is a string and increments a counter accordingly. It shows how loops and type-checking can be applied to handle lists with mixed data types, providing a straightforward solution to count specific element types.
+
